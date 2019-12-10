@@ -8,6 +8,11 @@ MostPopularArticleModel.swift - Data model with the information we want to show 
 
 MostPopularArticleListViewModel.swift - Takes NewsData and formats the data to be displayed in the views.
 
+MostPopularArticlesCell.swift - Updates the view from the view model.
+
+Constants.Swift - Required app constants are declared in this file
+
+ArticleDetailVC.Swift - displaying article detail
 
 
 
